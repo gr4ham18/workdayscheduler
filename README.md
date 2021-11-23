@@ -36,6 +36,6 @@ SCHEDULE APP
 - past(gray), present(red), or future(green).
 - TIPE AND SAVE ANY INFO
 
-## Mock-Up
+## screenshot 
 ![](assets/images/05-third-party-apis-homework-demo.gif)
 
