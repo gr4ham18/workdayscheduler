@@ -1,40 +1,48 @@
-# Work Day Scheduler
 
-### URL :
- https://gr4ham18.github.io/workdayscheduler/
+<h1 align="center"> work day scheduler </h1>
+  
+![badge](https://img.shields.io/badge/license-none-brightgreen)<br />
 
-## Purpose
-SCHEDULE APP
+## Description
+ Application the helps keep track of tasks during your workday.
 
-## User Story
-```
-- AS AN employee with a busy schedule
-- I WANT to add important events to a daily planner
-- SO THAT I can manage my time effectively
-```
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-## Acceptance Criteria
-```
-- GIVEN I am using a daily planner to create a schedule
-- WHEN I open the planner
-- THEN the current day is displayed at the top of the calendar
-- WHEN I scroll down
-- THEN I am presented with time blocks for standard business hours
-- WHEN I view the time blocks for that day
-- THEN each time block is color-coded to indicate whether it is in the past, present, or future
-- WHEN I click into a time block
-- THEN I can enter an event
-- WHEN I click the save button for that time block
-- THEN the text for that event is saved in local storage
-- WHEN I refresh the page
-- THEN the saved events persist
-```
+## Installation
+Not required
 
 ## Usage
+-  Open link https://gr4ham18.github.io/workdayscheduler/
 - MOBILE AND DESKTOP COMPATIBLE
 - STORE ON THE LOCAL REPOSITORY
 - past(gray), present(red), or future(green).
 - TIPE AND SAVE ANY INFO
+
+## License
+![badge](https://img.shields.io/badge/license-none-brightgreen)
+<br />
+This application is covered by the none license. 
+
+## Contributing
+ gr4ham18
+
+
+
+## Questions
+ reporte issues at my github<br />
+<br />
+Find me on GitHub: [gr4ham18](https://github.com/gr4ham18)<br />
+<br />
+ Email me with any questions: Gr4ham18@gmail.com<br /><br />
+
+
 
 ## screenshot 
 ![](assets/images/05-third-party-apis-homework-demo.gif)
